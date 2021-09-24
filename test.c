@@ -1,0 +1,1 @@
+//structure with fields with name. dob,address, get the values.

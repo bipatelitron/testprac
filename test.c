@@ -5,9 +5,9 @@ int main(void)
 {
     char firstname[], lastname[];
 
-    int birth_year;
+    int birth_year;     //Birthday  
 
-    printf( "Input your firstname: " );
+    printf( "Input your firstname: " );    
     scanf ( "%s", firstname );
     printf( "Input your lastname: " );
     scanf ( "%s", lastname );
@@ -15,4 +15,4 @@ int main(void)
     scanf ( "%d", &birth_year );
     printf( "%s %s %d\n", firstname, lastname, birth_year );
 
-    return 0;
+    return 0; 
